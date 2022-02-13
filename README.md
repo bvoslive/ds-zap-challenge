@@ -20,6 +20,7 @@ Um anúncio no portal é composto por diversas características do imóvel, como
 ## Resultados
 
 MAPE = 30%
+
 RMSE = R$257355
 
 ## Contato
